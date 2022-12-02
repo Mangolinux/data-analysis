@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/coachham804" target="blank"><img src="https://img.shields.io/twitter/follow/coachham804?logo=twitter&style=for-the-badge" alt="coachham804" /></a> </p>
 
-- 🔭 I’m currently working on **Predicting the price of Shiba Inu USD with PyTorch**
+- 🔭 I’m currently working on [Predicting the price of Shiba Inu USD with PyTorch](https://deepnote.com/@data-analysis-a393/PyTorch-fc08d6ef-844c-4fda-b349-6bef1fba00a7)
 
 - 🌱 I’m currently learning **R & Python for Data Science ....**
 
